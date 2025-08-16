@@ -1,0 +1,23 @@
+.gradle/
+build/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### Kotlin ###
+.kotlin
+
+### Eclipse ###
+.classpath
+.project
+.settings
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
